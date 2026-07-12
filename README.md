@@ -25,7 +25,7 @@ This Bash script automates the process of creating compressed backups of a direc
 ```bash
 chmod +x backup.sh
 
-./backup.sh <source_directory> <destination_directory>
+./rotation_backup.sh <source_directory> <destination_directory>
 ```
 
 ### Example
@@ -77,6 +77,6 @@ This schedule means:
 
 <img width="1199" height="342" alt="image" src="https://github.com/user-attachments/assets/3657f20c-3ca7-4285-8c74-88e8f3b6d323" />
 
-<img width="1068" height="189" alt="image" src="https://github.com/user-attachments/assets/33b8f63b-307a-4baa-bcff-d28debca0ce7" />
+
 
 <img width="1206" height="611" alt="image" src="https://github.com/user-attachments/assets/13257bec-9d85-4761-8d76-076016559ba4" />
