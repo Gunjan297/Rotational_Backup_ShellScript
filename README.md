@@ -78,5 +78,5 @@ This schedule means:
 <img width="1199" height="342" alt="image" src="https://github.com/user-attachments/assets/3657f20c-3ca7-4285-8c74-88e8f3b6d323" />
 
 
-
+Cronjob:
 <img width="1206" height="611" alt="image" src="https://github.com/user-attachments/assets/13257bec-9d85-4761-8d76-076016559ba4" />
